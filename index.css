@@ -1,0 +1,281 @@
+   .dropdown:hover .dropdown-menu{
+    display: block;
+    margin-top: 0px;
+    background-color: #FAFAFA;
+    width: 250px;
+    padding-left: 30px;
+    line-height: 2.0;
+}
+.row{
+color: white;
+
+}
+.pp{
+  margin-top: 80px;
+}
+.pp h1{
+  font-size: 60px;
+  color: white;
+  font-weight: 700;
+}
+.pp p{
+  color: white;
+}
+.hop{
+  background-color: rgb(0, 0, 0);
+  color: #0087DB;
+  width: 200px;
+}
+.hop:hover{
+  color: white;
+}
+.loop h1{
+  font-size: 50px;
+  font-weight: 700;
+}
+.mee{
+  margin-top: 100px;
+}
+.mee h1{
+  font-size: 50px;
+  font-weight: 700;
+}
+.ade{
+  margin-top: 100px;
+}
+.ade h1{
+  font-size: 50px;
+  font-weight: 700;
+}
+.kill{
+width: 250px;
+margin: auto;
+}
+.zoo{
+  width: 450px;
+  margin: auto;
+}
+.ode{
+  text-align: center;
+}
+.bb{
+  background-color: rgb(0, 0, 0);
+}
+.jac{
+  color: white;
+  font-weight: 500;
+}
+.nun{
+  text-align: center;
+  color: white;
+}
+@media (max-width:900px){
+  .macu{
+    text-align: center;
+  }
+  .zoo{
+    width: 250px;
+  }
+  .afa{
+    width: 20%;
+  }
+  .afc{
+    width: 40px;
+  }
+  .faa{
+    margin-left: 80px;
+  }
+}
+.yoo{
+  margin-top: 80px;
+}
+.yoo h1{
+  font-size: 60px;
+  font-weight: 700;
+  color: white;
+}
+.yoo p{
+  color: white;
+}
+.yoop h1{
+  font-size: 60px;
+  font-weight: 700;
+  color: white;
+  margin-top: 80px;
+}
+.yoop p{
+  color: white;
+}
+.cp{
+  margin-top: 70px;
+  color: white;
+}
+.boo{
+  padding-bottom: 100px;
+  text-align: left;
+}
+
+.baa{
+  padding-bottom: 80px;
+  text-align: left;
+}
+.boo h5{
+  font-size: 30px;
+  
+}
+.oo{
+  text-align: center;
+  background-color: rgb(192, 231, 255);
+}
+.moo{
+   width: 200px;
+  height: 45px;
+  background-color: #0087DB;
+  color: white;
+  border: 1px solid #0087DB;
+}
+.mg{
+  background-color: #579AF6; 
+  color: white;
+}
+.mg:hover{
+  background-color: white;
+  color: black;
+}
+.mg2{
+  background-color: #579AF6; 
+  color: white;
+}
+.mg2:hover{
+  background-color: white;
+  color: black;
+}
+.moo:hover{
+  background-color: white;
+  color: #0087DB;
+  border: 3px solid #0087DB;
+}
+
+.mo{
+  color: white;
+}
+.mo:hover{
+  background-color: white;
+  color: #0087DB;
+}
+.baa h5{
+   font-size: 30px;
+   
+}
+.btn{
+  background-color: #0087DB;
+  color: white; 
+  width: 150px; 
+  height: 50px; 
+  border-radius: 30px; 
+  border: 1px solid #0087DB; 
+  margin-left: 30px;
+}
+@media (max-width:900px){
+    .boo h5{
+      font-size: 20px;
+    }
+    .baa h5{
+      font-size: 20px;
+      text-align: center;
+    }
+    .btn{
+      text-align: center;
+    }
+    .yoop{
+    margin: auto;
+    }
+    .k{
+      text-align: center;
+    }
+    .kf{
+  background-image: url(first.jpg);
+}
+.gf{
+  display: none;
+}
+}
+.hf{
+   background-color: #0087DB; 
+   color: white; 
+   width: 160px; 
+   height: 40px; 
+   border-radius: 30px; 
+   border: 2px solid #0087DB;
+}
+.hf:hover{
+  background-color: white;
+  color: #0087DB;
+}
+.hff:hover{
+  background-color: white;
+  color: #0087DB;
+}
+.hff{
+  
+  color: white;
+}
+.m{
+  align-content: center;
+  color: red;
+}
+.h{
+  font-size: 50px;
+  font-weight: 700;
+}
+.hov:hover{
+  color: white;
+}
+.hov{
+  background-color: #0087DB; 
+  color: #0087DB; 
+  width: 150px; 
+  height: 50px; 
+  border-radius: 30px; 
+  border: 1px solid #0087DB; 
+  margin-left: 10px;
+}
+.navbar-nav{
+  margin-left: 10px;
+}
+.gf{
+  background-image: url(first1.jpg);
+  width: 100%;
+  height: 600px;
+}
+.bf{
+  background-image: url(second\ \(2\).jpg);
+  padding-top: 500px;
+   height: 600px;
+}
+.cf{
+  background-image: url(third.jpg);
+  padding-top: 500px;
+   height: 600px;
+}
+.ro :hover{
+ background-color: blue;
+}
+.ro{
+    background-color: blue;
+    border-radius: 100px;
+    width: 150px;
+    height: 55px;
+}
+
+
+.fag{
+    border-radius: 150px;
+    width: 200px;
+    height: 50px;
+}
+.ay{
+    border-radius: 150px;
+    background-color: rgb(238,238,238);
+    width: 200px;
+}
